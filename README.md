@@ -11,7 +11,7 @@ Goals:
 
 
 ### Create Virtual Machines:
-<video src="scr/configure-iso.webm" controls></video>
+![See the video](https://drive.google.com/file/d/1peifxm1mVv_Fy3g66b41oG1k-Oh-qjyG/view?usp=drive_link)
 - 1- Start VirtualBox and click on "New".
 - 2- Choose a name and a folder for VM assets.
 - 3- Select ISO file and click on next.
@@ -22,7 +22,7 @@ Goals:
 
 
 ### Fedora 42 installation:
-<video src="scr/fedora-42-installation.webm" controls></video>
+![See the video](https://drive.google.com/file/d/1xIpP7NCAKFVAHz1nHfgnRixg47ZxlKS5/view?usp=drive_link)
 - 1- Click on next until installation summary page.
 - 2- Go on installation destination, choose the created virtual disk.
 - 3- Enable root account for root previlages or create a new user.
